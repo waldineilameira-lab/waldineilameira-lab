@@ -1,7 +1,7 @@
 # Olá, sou Waldinei Lameira 👋
 
 🎓 Matemático, professor e Cursando Analise de Dados. 
-📍 Forianopolis, SC — Brasil  
+📍 Florianópolis, SC — Brasil  
 
 ---
 

@@ -14,7 +14,8 @@
 Matemático com **mais de 20 anos** de experiência em educação, agora aplicando esse raciocínio à **análise de dados**.
 Construo pipelines de ETL, modelos dimensionais e dashboards que respondem perguntas de negócio com dados públicos e reais.
 
-- 🎓 Mestre em Ciências Naturais · Licenciado em Matemática · Google Certified Educator Nível 2
+- 🎓 Mestre em Ciências e Meio Ambiente, com ênfase em análise de dados ambientais
+- 📐 Licenciado em Matemática · Google Certified Educator Nível 2
 - 📊 Formação em Visualização de Dados e BI — SCTEC + SENAI/SC
 - 💼 Ex-diretor administrativo da 2W Metal Design
 

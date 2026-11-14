@@ -62,4 +62,4 @@ ETL em Python → modelo dimensional → PostgreSQL (Supabase) → app Streamlit
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| [Qualidade da Água · Tucuruí](https://github.com/waldineilameira-lab/tucurui-qualidade-agua-multivariada) | Minha dissertação de mestrado em Python: ACP e agrupamento de 14 parâmetros no reservatório da UHE Tucuruí (2004–2010), com app que integra dados diários do ONS e classifica novas amostras | Python, Streamlit, Plotly, SciPy |
+| [Qualidade da Água · Tucuruí](https://github.com/waldineilameira-lab/tucurui-qualidade-agua-multivariada) | Minha dissertação de mestrado em Python: ACP e agrupamento de 14 parâmetros no reservatório da UHE Tucuruí (2004–2010), com app que integra dados diários do ONS e classifica novas amostras · [🚀 App ao vivo](https://tucurui-qualidade-agua.streamlit.app/) | Python, Streamlit, Plotly, SciPy |
